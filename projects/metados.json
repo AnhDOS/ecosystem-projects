@@ -1,0 +1,19 @@
+{
+  "name": "MetaDOS",
+  "slug": "MetaDOS",
+  "date": "2021-01-11",
+  "highlight": "Next-gen esports Battle Royale game using time-as-currency concept and support up to 200 players in a battle",
+  "logo": "/img/MetaDOS.png",
+  "tags": ["gaming","nft","fps","guild"],
+  "status": "coming soon",
+  "website": "https://metados.com",
+  "twitter": "https://twitter.com/PlayMetaDOS",
+  "summary": "Next-gen esports Battle Royale game using time-as-currency concept and support up to 200 players in a battle. The game combine the high quality and fun of a Free to Play game with the ownership of blockchain technology. ",
+  "telegram": "https://t.me/PlayMetaDOS",
+  "discord": "https://discord.gg/MetaDOS",
+  "docs":"https://help.metados.com",
+  "github":"https://github.com/MetaDOS",
+  "token":"TIME",
+  "cmc":""
+  
+}
