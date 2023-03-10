@@ -483,6 +483,29 @@
       "token": ""
     },
     {
+      "name": "Avalytics",
+      "slug": "Avalytics",
+      "tags": [
+        "nft",
+        "tools",
+        "art",
+        "dashboard"
+      ],
+      "status": "live",
+      "highlight": "Providing free Avalanche NFT analytics.",
+      "logo": "/img/avalytics.png",
+      "website": "https://www.avalytics.xyz/",
+      "twitter": "https://twitter.com/avalyticsXYZ",
+      "telegram": "",
+      "github": "",
+      "discord": "",
+      "summary": "Providing free Avalanche NFT analytics.",
+      "docs": "",
+      "cmc": "",
+      "date": "2022-06-06",
+      "token": ""
+    },
+    {
       "name": "Avascan",
       "slug": "avascan",
       "tags": [
@@ -1620,6 +1643,28 @@
       "cmc": "",
       "data": "",
       "token": ""
+    },
+    {
+      "name": "Cosmic Universe",
+      "slug": "cosmic-universe",
+      "tags": [
+        "gaming",
+        "nft",
+        "mmorpg"
+      ],
+      "status": "coming soon",
+      "highlight": "Cosmic Universe is a fantasy blockchain metaverse world-builder and MMORPG built using UE5 with tradable NFTs on the Avalanche blockchain.",
+      "logo": "/img/cosmic-universe.png",
+      "website": "https://cosmicuniverse.io/",
+      "twitter": "https://twitter.com/thecosmicguild",
+      "telegram": "https://t.me/cosmicuniversegame",
+      "github": "https://github.com/thecosmicuniverse",
+      "discord": "https://discord.gg/cosmic-universe",
+      "summary": "Cosmic Universe is an immersive open-world fantasy metaverse world-builder MMORPG where players explore, gather, harvest, develop increasingly-advanced plots and settlements, trade, level-up for magical powers & in-game rewards, and engage in PVP competitions & events. Cosmic Universe gives players full tokenized ownership of their characters & land, and leverages the benefits of blockchain technology into its ecosystem. Integrating exclusive character & land NFT collections, Cosmic Universe focuses heavily on buying & developing land, harvesting & mining resources, acquiring skills & magic, forging alliances, and socializing, all while developing increasingly advanced plots & settlements. Players can earn in-game rewards through skilled gameplay & contributions to the ecosystem.",
+      "docs": "https://info.cosmicuniverse.io/",
+      "cmc": "https://www.coingecko.com/en/coins/cosmic-universe-magic-token",
+      "date": "2021-06-20",
+      "token": "MAGIC"
     },
     {
       "name": "Covalent",
@@ -3202,6 +3247,26 @@
       "token": ""
     },
     {
+      "name": "Keystone",
+      "slug": "keystone",
+      "tags": [
+        "wallet"
+      ],
+      "status": "",
+      "highlight": "A top-notch hardware wallet for optimal security, user-friendly interface and extensive compatibility.",
+      "logo": "/img/keystone.png",
+      "website": "https://keyst.one/",
+      "twitter": "https://twitter.com/KeystoneWallet",
+      "telegram": "https://t.me/KeystoneWallet",
+      "github": "https://github.com/KeystoneHQ",
+      "discord": "https://discord.gg/6vEfPEJKJD",
+      "summary": "",
+      "docs": "",
+      "cmc": "",
+      "date": "",
+      "token": ""
+    },
+    {
       "name": "Kingdom Quest",
       "slug": "kingdomquest",
       "tags": [
@@ -3882,26 +3947,6 @@
       "github": "https://github.com/NestedFi/nested-core-lego",
       "token": "NST",
       "cmc": ""
-    },
-    {
-      "name": "Nexo",
-      "slug": "nexo",
-      "tags": [
-        "defi"
-      ],
-      "status": "",
-      "highlight": "The world's leading regulated digital assets institution",
-      "logo": "/img/nexo.svg",
-      "website": "https://nexo.io/?v=t4",
-      "twitter": "https://twitter.com/nexofinance",
-      "telegram": "https://t.me/nexofinance",
-      "github": "",
-      "discord": "",
-      "summary": "",
-      "docs": "",
-      "cmc": "",
-      "date": "",
-      "token": ""
     },
     {
       "name": "NFT Stars",
@@ -4634,6 +4679,28 @@
       "token": "$RACEX"
     },
     {
+      "name": "Raffllrr",
+      "slug": "Raffllrr",
+      "tags": [
+        "nft",
+        "tools",
+        "dapp"
+      ],
+      "status": "live",
+      "highlight": "Raffllrr is the premier raffling dApp on Avalanche. Providing artists and collectors the power to raffle NFTs safely and securely.",
+      "logo": "/img/raffllrr.png",
+      "website": "https://www.raffllrr.xyz/",
+      "twitter": "https://twitter.com/raffllrr",
+      "telegram": "",
+      "github": "",
+      "discord": "https://discord.gg/raffllrr",
+      "summary": "Raffllrr is the premier raffling dApp on Avalanche. Providing artists and collectors the power to raffle NFTs safely and securely.",
+      "docs": "https://docs.raffllrr.xyz/",
+      "cmc": "",
+      "date": "2023-01-06",
+      "token": ""
+    },
+    {
       "name": "Rango",
       "slug": "rango",
       "date": "2022-10-31",
@@ -5289,6 +5356,29 @@
       "cmc": "",
       "date": "",
       "token": ""
+    },
+    {
+      "name": "Swapsicle",
+      "slug": "swapsicle",
+      "tags": [
+        "defi",
+        "exchange",
+        "dex",
+        "swap"
+      ],
+      "status": "live",
+      "highlight": "DeFi but with more flavour, built by the community, for the community.",
+      "logo": "/img/swapsicle.png",
+      "website": "https://www.swapsicle.io/",
+      "twitter": "https://twitter.com/SwapsicleDEX",
+      "telegram": "",
+      "github": "https://github.com/swapsicledex",
+      "discord": "https://discord.gg/swapsicle",
+      "summary": "",
+      "docs": "https://docs.swapsicle.io/",
+      "cmc": "https://coinmarketcap.com/currencies/swapsicle/",
+      "date": "2022-10-13",
+      "token": "POPS"
     },
     {
       "name": "Swimmer Network Subnet",
